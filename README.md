@@ -14,8 +14,8 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 
 ## Program:
-Developed by:S.A.Amrutha 
-RegisterNumber:22007438 
+Developed by:Rakesh J.S 
+RegisterNumber:22009339 
 ```
 i)	# To find the maximum of marks using the list method sort.
 
