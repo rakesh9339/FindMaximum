@@ -19,53 +19,60 @@ RegisterNumber:22009339
 ```
 i)	# To find the maximum of marks using the list method sort.
 
+Program to mark the maximum of marks using the list method sort
+Developed by: Rakesh J.S
+RegisterNumber: 22009339
+'''
 def max_marks(marks):
     #Write your code here
-     marks.sort()
-     large = marks[-1]
-     return large
+    marks.sort()
+    large = marks[-1]
+    return large
 
 
-ii)	# To find the maximum marks using the list method max().
-
+ii)	# To find the maximum marks using the list method max().''' 
+Program to find the maximum marks using the list method max().
+Developed by: Rakesh J.S
+RegisterNumber: 22009339
+'''
 def max_marks(marks):
     # write your code here
-    max  =  marks[0]
-    for  x in marks:
-        if x > max :
-            max  = x
-    return max        
-
-
+    large = max(marks)
+    return large
+    
 iii) # To find the maximum marks without using builtin functions.
 
 def max_marks(list1):
+''' 
+Program to find the maximum marks using the list method max().
+Developed by: Rakesh J.S
+RegisterNumber: 22009339
+'''
+def max_marks(marks):
     # write your code here
-    max=list1[0]
-    for number in list1:
-        if(number > max):
-            max  = number
-    return max        
+    large = max(marks)
+    return large
+           
 ```
 ## Sample Input and Output:
 i) To find the maximum of marks using the list method sort.
-![](Sa1.png)
+![](RN.png)
 
 ii)	To find the maximum marks using the list method max().
-![](Sa2.png)
+![](RN.png)
 
 iii)To find the maximum marks without using builtin functions.
-![](Sa3.png)
+![](RN.png)
 
 ## Output:
 i) To find the maximum of marks using the list method sort.
-![](outputa1.png)
+![](RN1.png)
 
 ii)	To find the maximum marks using the list method max().
-![](outputa2.png)
+![](RN2.png)
 
 iii)To find the maximum marks without using builtin functions.
-![](outputa3.png)
+![](RN3.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
