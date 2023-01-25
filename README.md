@@ -55,13 +55,6 @@ def max_marks(marks):
            
 ```
 ## Sample Input and Output:
-i) To find the maximum of marks using the list method sort.
-![eig](RN.png)
-
-ii)	To find the maximum marks using the list method max().
-![eig](RN.png)
-
-iii)To find the maximum marks without using builtin functions.
 ![eig](RN.png)
 
 ## Output:
