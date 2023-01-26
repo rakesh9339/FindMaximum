@@ -57,7 +57,8 @@ def max_marks(marks):
 ## Sample Input and Output:
 ![Screenshot (8)](https://user-images.githubusercontent.com/121115650/214908149-573b33d8-5777-4824-a4c3-9379657d458b.png)
 
-![Screenshot (9)](https://user-images.githubusercontent.com/121115650/214908202-6ec468e0-01e7-433f-9124-9edf8182962a.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/121115650/214908412-4d46389d-0311-4dad-9336-0de5aff488d7.png)
+
 
 ## Output:
 i) To find the maximum of marks using the list method sort.
